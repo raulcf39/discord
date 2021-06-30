@@ -1,0 +1,4 @@
+{"username":"TwitterFeed",
+"content":"@{{UserName}}
+tweeted this at {{CreatedAt}}:
+{{LinkToTweet}}" }
